@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
   },
   darkCard: {
     flex: 1,
-    backgroundColor: "#1E1E2C",
+    backgroundColor: "#1e1e2c",
     borderRadius: 12,
   },
 });
